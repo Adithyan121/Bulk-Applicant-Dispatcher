@@ -1,0 +1,41 @@
+Subject: Application for {{role}} Position
+
+-->
+
+Dear Hiring Manager,
+
+My name is {{name}}, and I am writing to express my interest in the
+{{role}} position at {{company}}, {{place}}.
+
+I am a passionate and motivated developer with hands-on experience in building
+full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
+I have completed a 6-month MERN Stack Developer internship, where I gained experience
+in developing and deploying web applications with mern stack technologies.
+
+During my internship, I developed projects such as a portfolio website with an admin panel,
+a movie recommendation application, and a BMI calculator.
+These experiences strengthened my understanding of frontend development, backend APIs,
+database design, and clean UI styling.
+
+I am particularly interested in entry-level or junior roles where I can contribute to
+development tasks, learn from experienced engineers, and grow professionally while
+adding value to your organization.
+
+Please find my resume attached for your review. I would welcome the opportunity
+to discuss how my skills and enthusiasm align with your team’s requirements.
+
+Thank you for your time and consideration. I look forward to hearing from you.
+
+Kind regards,
+
+{{name}}
+
+{{role}}
+
+📞 {{ph_number}}
+
+📧 {{my_email}}
+
+🌐 https://adithyan-phi.vercel.app/
+
+📍 {{my_place}}

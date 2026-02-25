@@ -1,0 +1,22 @@
+Subject: Following up on my application for {{role}}
+
+Dear Hiring Team,
+
+I recently applied for the {{role}} position at {{company}}, and I wanted to briefly follow up to reiterate my
+strong interest in the opportunity.
+
+I am confident that my skills in MERN stack development would make me a valuable addition to your team at
+{{place}}. I am very enthusiastic about the possibility of contributing to {{company}}'s innovative projects.
+
+Please let me know if you need any further information regarding my application. I look forward to hearing from
+you.
+
+Best regards,
+
+{{name}}
+
+{{ph_number}}
+
+{{my_email}}
+
+{{my_place}}
